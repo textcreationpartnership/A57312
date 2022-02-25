@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the magistrates, governours &amp; rulers concerned in England</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57312</idno>
+            <idno type="STC">Wing R1496</idno>
+            <idno type="STC">ESTC R11926</idno>
+            <idno type="EEBO-CITATION">13574878</idno>
+            <idno type="OCLC">ocm 13574878</idno>
+            <idno type="VID">100420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 799:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the magistrates, governours &amp; rulers concerned in England</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Ambros Rigge.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100420:1"/>
+            <pb n="1" facs="tcp:100420:1"/>
+            <head>TO THE MAGISTRATES, <hi>Governours &amp; Rulers</hi> Concerned in ENGLAND.</head>
+            <opener>
+               <salute>FRIENDS;</salute>
+            </opener>
+            <p>WE who are in ſcorn called <hi>Quakers,</hi> have been a Suffering People this many Years, under all Governments, ſince we were a People; and we may truly ſay, as once did <hi>David</hi> concerning <hi>Iſrael</hi> old, <hi>If the Lord had not been on our ſide, when men roſe up againſt us, they had then ſwallowed us up quick; when their Wrath was kindled againſt us, then the Waters had drowned us, and the Streams had gone over our Souls,</hi> Pſal. 124. 1, 2, 3, 4. yet were we never known to avenge our own Cauſe, nor to render Evil for Evil to the worſt of our Enemies: It is not our Nature, our Principle nor Practice, to take Vengeance on the meaneſt of our Enemies, becauſe Mercy and Forgiveneſs is ſeated in our hearts; and when our Enemies have hungered, we have fed them; naked, we have clothed them; ſick and in Priſon, we have viſited them, and miniſtred unto them. This we ſpeak without Boaſting, in an humble Mind, knowing to whom we muſt render an Account of our Words and Deeds; as a People, we have all our lives long ſtudied to be quiet, and to fol<g ref="char:EOLhyphen"/>low Peace with all men; neither have we eaten any mans Bread for nought, but have laboured with our hands in the thing that
+<pb n="2" facs="tcp:100420:2"/>
+is good, that we might have to give to him that needeth, deſiring nothing more in this World than to <hi>keep our Conſciences void of Dffence, both towards God and all men.</hi> This (not our words, but) the whole courſe of our Lives hath manifeſted in every place and Pariſh where we have dwelt amongſt you.</p>
+            <p>And as to the <hi>Government</hi> under which God hath placed us, We have, and hope ever ſhall readily yield all lawful and reaſon<g ref="char:EOLhyphen"/>able Subjection in Civil things, between Man and Man, only<g ref="char:EOLhyphen"/>deſiring that we may not be forced to violate our Conſciences in things relating to another World, which hath no bad aſpect on the Affairs of this. For CONSCIENCE is Chriſt's Prero<g ref="char:EOLhyphen"/>gative, in which he ought to ſit abſolute <hi>King, Governour</hi> and <hi>Law-giver,</hi> as we have cauſe to believe; and no mortal Man (though never ſo great) ought to ſay, <hi>Why doſt thou thus?</hi> What mortal Man on Earth can (with ſafety) ſit Judge over another mans Conſcience in things for which (he alone who acts them) muſt be accountable to the great God? Ought not every man to be fully perſwaded in his own Mind in things of the higheſt con<g ref="char:EOLhyphen"/>cern? Can any man pay a Ranſom for his Brother, or be a Pledge for his Neighbour to the great Judge of Heaven and Earth? Or who will or can acquit a man before his great Tri<g ref="char:EOLhyphen"/>bunal, who (in temporal or ſpiritual things) acts contrary to the Witneſs of God in his own Conſcience, which is (and ever was) greater than the Witneſs of Man? Yet ſuch is the blind<g ref="char:EOLhyphen"/>neſs of your chief Prieſts, and the madneſs of their Rage againſt all who will not put into their Mouthes, that they immediately prepare War againſt them, without ever examining, whether their cauſe is good or bad, or ſeeking to convince them by ſound Argument, but preſently, upon any turning from them [though upon never ſo weighty Reaſons] they fly to you to fight their Quarrel with your <hi>Priſons, Fines Eccommunications,</hi> &amp;c. and few of them dare engage themſelves in a fair Debate, with thoſe they count ignorant and deluded, &amp;c. with their ſpiritual Weapons, though they have been often invited thereto, which plainly demonſtrates a bad Cauſe or a faint Heart, and that the Weapons of their Warfare are Carnal, not Spiritual, quite contrary to the Weapons of the holy Men of God recorded
+<pb n="3" facs="tcp:100420:2"/>
+in the Scripture of Truth, who ſaid, <hi>Though we walk in the fleſh, yet we war not after the fleſh; for the Wapons of our Warfare are not Carnal, but mighty through God, to the pulling down of ſtrong Holds, caſting down the Imaginations, and every high thing that is exalted againſt the knowledge of God,</hi> 2 Cor. 10. 4, 5. Surely they have more Confidence in a Goal or Gibbet to overcome us, than in that they call the <hi>Word of God,</hi> or they judge you to be either ſtronger or more valiant than themſelves, and have more Confi<g ref="char:EOLhyphen"/>dence in your Sword to deſtroy us, than in their own convincing Arguments, to recover us; but the Prophet ſaid, <hi>Curſed is Man who truſteth in Man, and maketh Fleſh his Arm, and withdraweth his Heart from the Lord,</hi> Jer. 17. 5. And let them remember, that the firſt Per<g ref="char:EOLhyphen"/>ſecutor about Religion was <hi>Cain,</hi> Gen. 4. 3, 4, 5, 6, 7, 8. in whoſe ſteps they tread who ſeek the Deſtruction of their fellow-Creatures about Religion and Worſhip; and it is an Infallible token, that their Offerings are rejected of God, as <hi>Cain's</hi> was: But to ſalve all, they tell you, <hi>That the Church is in danger, and therefore you muſt ſtand up for its deſence, and pluck up the Weeds of</hi> Schiſm <hi>and</hi> Herefie, <hi>which the Devil hath ſown amongſt you.</hi> A fair pretence indeed! yet herein they are manifeſt more to all who have an Eye to ſee; for if theirs were the true Church, the <hi>Gates of Hell could not prevail againſt it,</hi> Mat. 16. 18. And they who are the Sheep of Chriſt, and given to him, <hi>no man can pluck them out of his hand,</hi> John 10. 28, 29. But I ſuppoſe they mean their <hi>Tythes</hi> and <hi>great Beneſices</hi> are in danger to be loſt; the very Miſtriſs of their Religion, and the moving cauſe of all their un<g ref="char:EOLhyphen"/>dertakings in it, as is notoriouſly evident to all whoſe Eyes God hath opened.</p>
+            <p>And if they were the true <hi>Wheat,</hi> and others the <hi>Tares,</hi> which they repreſent to you to be ſuch, they needed not be afraid of our growing together to the <hi>Harveſt</hi> (i. e. the end of the World;) for thus the great Maſter of the <hi>Field</hi> (i. e. the World) ſaid to his Servant, who brought him word, that the Enemy had ſown <hi>Tares</hi> in the Field among his good Seed, and would in his for<g ref="char:EOLhyphen"/>ward zeal have pluckt them up, but his wiſe Maſter would not ſuffer him, <hi>leſt he ſhould root up the</hi> Wheat <hi>alſo,</hi> Mat. 13. 24, 25, 26, 27, 28, 29, 30. but ordered them both to grow together to the end of World; and fully explained the Parable, and ſaid,
+<pb n="4" facs="tcp:100420:3"/>
+               <hi>He that ſowed the Seed was the Son of Man, the Field was the World, and the good Seed are the Children of the Kingdom of God, and the Tares the Children of the Devil; the Enemy that ſowed them is the Devil; the Harveſt is the end of the World, and the Reapers are the Angels: So ſhall it he in the end of the World, the Son of Man ſhall ſend forth his Angels, and ſhall gather out of his Kingdom all things that offend, and them which do Iniquity, and caſt them into the Furnace of Fire, there ſhall be Weeping and Gnaſhing of Teeth,</hi> Mat. 13. 37, 38, 39, 40, 41, 42. Can you believe them to be your Friends, who would have you ſo forward in plucking up all but themſelves? If you were as forward to execute as they are to ſpur you on, you and they might have cauſe to repent of it, when it were too late; for as I ſaid before, that Prerogative is only peculiar to the Son of God, to give Infallible Judgment of <hi>Truth</hi> and <hi>Error,</hi> and to render to every man a Reward according to his Deeds, be they good or bad; and whoſoever aſſumes this Pre<g ref="char:EOLhyphen"/>rogative cannot be innocent, <hi>for Vengeance is mine, ſaith the Lord, and I will repay it,</hi> Rom. 12. 30. Heb. 10. 30. Rom. 3. 5. And how can the Natural man perceive the things of the Spirit of God, to whom, the Apoſtle ſaith, <hi>they are fooliſhneſs?</hi> 1 Cor. 2. 14 Can Fines, Impriſonments or Tortures upon the Bodies of men expiate their Offences to God, or ſatisfie the Diſpleaſure of Heaven, for their committing or omitting any thing or duty? Or is poor fallen man a fit Judge in the weighty matters of Gods Kingdom? Oh! weigh and conſider theſe things well, and be not high-minded, but fear and dread the living God, unto whom you muſt give an Account of that Stewardſhip committed to you, and God Almighty give you to ſee both your Prieſts and Us; for there is little hopes of their ſeeing either Truth or Error, while your great Benefices, Gifts and Rewards ſtand ſo much in their Eyes; ſuch things alwayes blinded the Eyes of the falſe Prophets of <hi>Iſrael,</hi> whom the true Prophets cryed Wo againſt, <hi>Iſa. 56. 10, 11. Jer. 23. Ezek 34. Mic. 3. 11, 12.</hi> and againſt the Judges alſo that Judged for Rewards, as well as againſt the Prieſts which preached for Hire, and ſaid, <hi>Therefore ſhould</hi> Zion <hi>be plowed as a Field, and</hi> Jeruſalem <hi>ſhould become on Heaps, &amp;c.</hi> And is not the cauſe now in <hi>England?</hi> And how can it but produce the ſame Effects? What will be the end of theſe Covetous Practices,
+<pb n="5" facs="tcp:100420:3"/>
+which the Prieſts and Lawyers are daily found in? Are they not the proper Marks of thoſe curſed Children which <hi>Peter</hi> ſpoke of, 2 <hi>Pet.</hi> 2. 14? And who are they that are walking in the Way of <hi>Cain,</hi> and running greedily after the Error of <hi>Ba<g ref="char:EOLhyphen"/>laam,</hi> which <hi>Jude</hi> ſpoke of, verſ. 11? I do entreat you in all Humility to conſider theſe things in this your day, and ſee who carry the Marks aforeſaid, for they are the falſe Prophets which Chriſt warned his Diſciples of, <hi>Mat.</hi> 7. 15, 16. who are known by their Fruits: And let all People alone in matters of Faith and Worſhip towards God; it is dangerous for you to ſit Judges over mens Faith and Conſciences in matters for which they (and they alone) are only reſponſible to God, and not to any Earthly Man: You your ſelves cannot Infallibly ſay, that the Way and Worſhip in which you now walk and worſhip, is the Way and Worſhip of God; and how then can you enjoyn others thereun<g ref="char:EOLhyphen"/>to, and that under ſevere Penalties? Who doth not believe it is either the VVay or VVorſhip of God? Is not Faith towards God his own Gift? And who can perſwade the Heart but he? And all Offerings and Sacrifices without it are as the cutting off a Dogs neck, and offering Swines Blood, which is Abomina<g ref="char:EOLhyphen"/>tion before him; therefore take heed what you do concerning this great and weighty matter; for GOd will not be mocked with Lip-ſervice, nor a voluntary Humility, but faith at this day, as in the dayes of old, <hi>My Son, give me they Heart, <hi>Prov. 23. 26.</hi>
+               </hi> This is the Rock upon which many of our fore-Fathers have ſuffered Ship-wrack.</p>
+            <p>So in tender Bowels of Love I entreat you beware of it, and truſt God with your Church, if it be of him, he will defend it, and no weapon formed againſt it ſhall proſper; but if it be of man he will overthrow it, and all your VViſdom, Strength and Pollicy cannot uphold nor defend it: And judge Righteouſly be<g ref="char:EOLhyphen"/>tween a Man and his Neighbour in temporal things; for that is your place and buſineſs, and the end for which you were ordained of God; and herein as you are a Terror to Evil-doers, and a Praiſe to them who do well, you ſhall thrive and proſper, and in this ſhall your Poſterity be happy, when your Heads are in the Duſt. But let the Ark of God alone, for by his Power alone he will ſupport that: Remember when <hi>Uzzah</hi> put forth his hand to
+<pb n="6" facs="tcp:100420:4"/>
+hold the Ark of God when the Oxen ſhooke it, how the Wrath of God roſe againſt him, and he ſmote him for his fault, ſo that he dyed by the Ark of God, 2 <hi>Sam. 6. 6, 7. 1 Chron.</hi> 13. 10. Theſe things were written for our Learning, that we ſhould not tempt God, as ſome of them tempted him, and were deſtroyed. And we pray you take <hi>Gamaliels</hi> counſel concerning all Diſſen<g ref="char:EOLhyphen"/>ting Parties, who live peaceably under the Government, and let us alone; <hi>If we be of God, ye cannot overthrow us,</hi> Acts 5. 34. <hi>But if this work be of man, it will fall, and come to nought,</hi> verſ. 38, 39, 40. To this advice the <hi>Jews</hi> hearkned, though they were in great Rage againſt the Apoſtles and Diſciples of Jeſus, <hi>Acts</hi> 5. 40. and for a time let them go; but the High-Prieſts rage would not ſuffer that long to continue, but again and again ſtirred up the Rulers to perſecute Chriſt and his Diſciples, till they had ſtain them, and thereby drew down the Wrath of God upon them<g ref="char:EOLhyphen"/>ſelves and their Poſterity: And they judged themſelves as ſafe then in their work, and thought they had as good Law for their proceedings, as you now think you now have to proſecute us by; nay, their Confidence led them to ſay, <hi>His Blood be upon us and upon our Children,</hi> Mat. 25. 25. which came to paſs, to their Miſery and Condemnation. Examine all Hiſtories ſince the Creation, did ever any long proſper, who proſecuted any meerly for their Conſciences towards God? How can any Mortal uncertain fallible man with ſafety preſcribe a way of Worſhip to his fellow-Creature, in which he can aſſure him Acceptance with God? Did Chriſt (who had all Power in Heaven and Earth committed to him) enjoyn any Man or People to any Way or Worſhip un<g ref="char:EOLhyphen"/>der any outward Penalty in Body or Purſe? What Example have you for ſuch Proceedings in all the Goſpel Day or Mini<g ref="char:EOLhyphen"/>ſtration? If the Scripture be your Prieſts Rule (as they pre<g ref="char:EOLhyphen"/>tend) let them ſhew a preſident for their Proceedings in this matter from any who either believed or followed Chriſt: Nay, when there aroſe a difference amongſt the Diſciples about <hi>Eating, &amp;c.</hi> the Apoſtle ſaid, <hi>Let every man be fully perſwaded in his own Mind;</hi> and commanded <hi>him who eateth, not to deſpiſe him who eateth not; neither him who eats not, him who eateth, for God hath received him,</hi> Rom. 14. 2, 3, 4, 5. And writing to the <hi>Phil<g ref="char:EOLhyphen"/>lipians</hi> he ſaid, <hi>Let us therefore, as many as be Perfect, be thus mind<g ref="char:EOLhyphen"/>ed;
+<pb n="7" facs="tcp:100420:4"/>
+and if any thing ye otherwiſe minded, God ſhall reveal even the ſame to you,</hi> Phil. 3. 15. He did not force them under Fines and Penalties into his Belief or Mind in things appertaining to the Kingdom of God. And writing to the <hi>Corinthians,</hi> he exhorted them <hi>to follow him as he followed Chriſt,</hi> 1 Cor. 11. 1. and no other<g ref="char:EOLhyphen"/>wiſe: And to <hi>Timothy</hi> he deſcribes thoſe Fruits by which Chriſt told his Diſciples (<hi>Mat.</hi> 7. 16.) they ſhould know the falſe Pro<g ref="char:EOLhyphen"/>phets, 2 <hi>Tim.</hi> 3. 1, 2, 3, 4, 5, 6. and commanded them <hi>To turn from ſuch.</hi> And this is the reaſon why many turn from ſuch now, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe fruits proclaim them rather Sons of <hi>Beliel,</hi> than Miniſters of the Goſpel. And <hi>Peter</hi> writing to the Saints, fully deſcribes the falſe Teachers and their fruits, 2 <hi>Pet.</hi> chap. 2. And then <hi>John</hi> writing to the little Children, ſaid, <hi>It is the laſt times, as ye have heard, that Antichriſt ſhall come; even now there are many Antichriſts, whereby we know it is the laſt times,</hi> 1 John 2. 18. And again, he ſaid, <hi>Little Children, let no man deceive you; he that doth Righteouſneſs is Righteous, even as he is Righteous; but he that com<g ref="char:EOLhyphen"/>mitteth Sin is of the Devil, for the Devil ſinned from the beginning: And for this purpoſe was the Son of God made manifeſt, that he might deſtroy the works of the Devil. In this are the Children of God manifeſt, and the Children of the Devil; whoſoever doth not Righteouſneſs, is not of God,</hi> 1 John 3. 6, 7, 8, 9, 10. Now the God of Mercy give you Underſtanding more and more to diſcern between the Righteous and the Wicked, and between them who ſerve God, and they who ſerve him not:<hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>I am A Friend to all the <g ref="char:V">Ʋ</g>pright in heart, without Reſpect of Perſons, <hi>Ambros Rigge.</hi>
+               </signed>
+               <dateline>
+                  <hi>Gatton</hi> in <hi>Surrey,</hi> 
+                  <date>the 2d of the 4th Moneth, 1682.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
